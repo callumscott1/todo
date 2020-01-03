@@ -22,7 +22,7 @@ import Checkbox from '@material-ui/core/Checkbox';
 class TodoApp extends React.Component {
     constructor(props) {
       super(props);
-      this.state = { items: [], text: '', count: 0 };
+      this.state = { items: [], text: '', count: 1 };
       this.handleChange = this.handleChange.bind(this);
       this.handleSubmit = this.handleSubmit.bind(this);
     }
