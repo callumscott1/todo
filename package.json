@@ -14,7 +14,7 @@
     "react-gesture-responder": "^2.1.0",
     "react-grid-dnd": "^2.1.1",
     "react-reorder": "^3.0.0-alpha.7",
-    "react-scripts": "3.3.0",
+    "react-scripts": "5.0.1",
     "typeface-roboto": "0.0.75"
   },
   "scripts": {
